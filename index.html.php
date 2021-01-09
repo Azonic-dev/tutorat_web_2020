@@ -1,5 +1,5 @@
 <?php namespace App;
-    require "script/header.php";
+    require "Script/header.php";
 ?>
 
 <body>
