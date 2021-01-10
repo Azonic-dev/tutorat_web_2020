@@ -1,4 +1,4 @@
-<?php require "connexionBDD.php";
+<?php
 if (isset($_POST["connexionInputPseudo"]) && isset($_POST["connexionInputMotDePasse"])) {
     $pseudo = $_POST["connexionInputPseudo"];
     $motdepasse = $_POST["connexionInputMotDePasse"];

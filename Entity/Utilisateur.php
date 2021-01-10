@@ -6,7 +6,7 @@ class Utilisateur
 {
     private $idUtilisateur;
     private $pseudo;
-    private $motdepasse;
+    private $password;
     private $email;
 
     public function __construct(array $arrayOfValues = null)
@@ -64,17 +64,17 @@ class Utilisateur
     /**
      * @return mixed
      */
-    public function getMotdepasse()
+    public function getPassword()
     {
-        return $this->motdepasse;
+        return $this->password;
     }
 
     /**
-     * @param mixed $motdepasse
+     * @param mixed $password
      */
-    public function setMotdepasse($motdepasse)
+    public function setPassword($password)
     {
-        $this->motdepasse = $motdepasse;
+        $this->password = $password;
     }
 
     /**

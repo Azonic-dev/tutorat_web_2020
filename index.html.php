@@ -1,4 +1,4 @@
-<?php
+<?php namespace App;
     require "Script/header.php";
 ?>
 
