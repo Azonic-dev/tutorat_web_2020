@@ -19,8 +19,8 @@
                 <div class="row" style="margin-top: 5vh">
                     <div class="col-3"></div>
                     <div class="col-6">
-                        <a href="page_connexion.html.php"><button type="button" class="btn btn-outline-primary">Se connecter</button></a>
-                        <a href="page_inscription.html.php"><button type="button" class="btn btn-outline-success">S'inscrire</button></a>
+                        <a href="page_connexion.php"><button type="button" class="btn btn-outline-primary">Se connecter</button></a>
+                        <a href="page_inscription.php"><button type="button" class="btn btn-outline-success">S'inscrire</button></a>
                     </div>
                     <div class="col-3"></div>
 
